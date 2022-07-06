@@ -15,10 +15,12 @@ function getRandomNumber(max) {
  const button = document.querySelector('.js-button');
  
  let counter = 1;
+
  button.addEventListener('click', (event) => {
  event.preventDefault();
  const inputValue = input.value;
  const inputInt = parseInt(inputValue);
+ console.log(inputInt);
  
  counter1.innerHTML= `${counter++}`;
      // let numberAttemps = parseInt(counter);
