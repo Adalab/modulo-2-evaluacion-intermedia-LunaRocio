@@ -1,0 +1,35 @@
+* {
+  background-color: bisque;
+}
+
+.h1 {
+  color: brown;
+}
+
+.h2 {
+  color: chocolate;
+}
+
+.input {
+  border-radius: 2cm;
+  border-color: crimson;
+  color: rgb(23, 85, 85);
+  font-weight: bold;
+  text-align: center;
+}
+
+.button {
+  text-transform: uppercase;
+  color: darkred;
+  border-radius: 2cm;
+  border-color: crimson;
+  background-color: cornflowerblue;
+  font-weight: bold;
+}
+
+.contador {
+  color: rgb(75, 7, 7);
+}
+.text {
+  color: crimson;
+}
